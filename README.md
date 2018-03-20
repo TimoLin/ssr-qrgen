@@ -9,4 +9,4 @@ Modified: app.js and index.html
 Todo:  
 Need to reload the page to generate the new QRcode if you change the config.
 
-![Eg.]raw.githubusercontent.com/TimoLin/ssr-qrgen/master/eg/eg.png
+![Eg.](raw.githubusercontent.com/TimoLin/ssr-qrgen/master/eg/eg.png)
