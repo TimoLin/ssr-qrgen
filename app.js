@@ -14,7 +14,7 @@ function manipulate() {
 	var remarks =  $("#remarks").val();
 	var group =  $("#group").val();
 
-	if (ip && port && port > 0 && password && encryption) {
+	if (ip && port && port > 0 && password && encryption && protocol && obfs) {
 		// The ssr QR code scheme can be found at 
 		// https://github.com/shadowsocksrr/shadowsocks-rss/wiki/SSR-QRcode-scheme
 		// Url safe base64 without padding
